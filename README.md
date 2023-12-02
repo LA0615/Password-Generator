@@ -4,14 +4,16 @@
 ## Description
 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
+This project uses javascript to create a password generator. The uswer will select choices for character length, uppercase letters, lowercase letters, special characters, and/or numbers. The user will click the GENERATE button and their pssword should appear in the textbox based on their input choices. 
 
 - What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project was created to practice what I learned during the javascript classes. 
 
+- Why did you build this project? In order to understand functions, for loops, and conditional statements, this project was created so that I could practice these new skills. 
+
+- What problem does it solve? This allows a user to select certain criteria for a password that will be generated for them upon request. 
+
+- What did you learn? I learned that syntax is important in javascript and that variable must have a specific name in order to perform the required action. 
 
 ## Table of Contents
 M/A
@@ -25,6 +27,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 
    ```md
-   ![alt text](assets/images/screenshot.png)
+   ![screenshot of password generator](assets/images/screenshot.png)
    ```
 
