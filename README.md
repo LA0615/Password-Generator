@@ -13,7 +13,7 @@ This project was created to practice what I learned during the javascript classe
 
 - What problem does it solve? This allows a user to select certain criteria for a password that will be generated for them upon request. 
 
-- What did you learn? I learned that syntax is important in javascript and that variable must have a specific name in order to perform the required action. 
+- What did you learn? I learned that syntax is important in javascript and that variables must have a specific name in order to perform the required action. 
 
 ## Table of Contents
 M/A
