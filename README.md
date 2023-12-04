@@ -27,6 +27,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 
    ```md
-   ![screenshot of password generator](assets/images/screenshot.png)
+   ![screenshot of password generator](assets/images/PasswordGenerator.png)
    ```
 
